@@ -8,9 +8,7 @@
 
 ## Features
 -  **Latest updates**: Dependencies updated as of **December 23, 2024**.
-- **No global Expo CLI required**: Fully local setup using:
-  1. `yarn install`
-  2. `npx expo start`
+- **No global Expo CLI required**: Fully local setup 
 -  **Improved UI**: Added a burger menu icon to the recipes and ingredients screens to prevent the "Wikipedia effect."
 
 ---
